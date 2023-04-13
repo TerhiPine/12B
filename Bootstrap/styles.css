@@ -1,0 +1,43 @@
+
+body {
+    background-color: #FFAAAA;
+    color: #550000;
+}
+
+header {
+    background-color: #FFAAAA;
+    color: #550000;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.img1  {
+    margin-top: 10px;
+    border-radius: 8px;
+  }
+
+.row {
+    background-color: #FFAAAA;
+    color: #550000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.container-fluid {
+    background-color: #FFAAAA;
+    color: #550000;
+}
+div.polaroid {
+    background-color: white;
+    width: 350px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  div.container1 {
+    background-color: white;
+    padding: 10px;
+    font-style: italic;
+  }
